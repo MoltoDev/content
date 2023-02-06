@@ -19,7 +19,7 @@ The **`<marquee>`** [HTML](/en-US/docs/Web/HTML) element is used to insert a scr
 ## Attributes
 
 - {{htmlattrdef("behavior")}} {{Deprecated_Inline}}
-  - : Sets how the text is scrolled within the marquee. Possible values are `scroll`, `slide` and `alternate`. If no value is specified, the default value is `scroll`.
+  - : Sets how the text is scrolled within the marquee. Possible values are `scroll`, `slide`, `alternate` and `none`. If no value is specified, the default value is `scroll`.
 - {{htmlattrdef("bgcolor")}} {{Deprecated_Inline}}
   - : Sets the background color through color name or hexadecimal value.
 - {{htmlattrdef("direction")}} {{Deprecated_Inline}}
